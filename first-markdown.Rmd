@@ -2,7 +2,10 @@
 title: "First Markdown Assignment"
 author: "Tina Almario, Aze Peñalosa, Manu Perez, Justin Tan, Ja Valdez, Jaime Villarosa"
 date: '2022-06-24'
-output: pdf_document
+output:
+  pdf_document: default
+  html_document:
+    df_print: paged
 ---
 
 # Why Analyze Data
@@ -10,7 +13,9 @@ output: pdf_document
 #### Tina
 #### Aze
 #### Manu
-#### Justin
+#### Justin  
+> world nowadays boasts an abundance of information that not only continuously grows, but is also easy to access. The challenge then comes in the form of filtering and processing all this information into relevant and valuable  statistics in which various inferences can be made from. This process of handling data is an invaluable procedure in interpreting what information is already available.  
+
 #### Ja
 #### Jaime
 
@@ -26,6 +31,8 @@ When you click the **Knit** button a document will be generated that includes bo
 #### Aze
 #### Manu
 #### Justin
+> An application of data science is medical image analysis and computer vision. Through machine learning and other various methods, an inference can be made using information gathered from an image which is beneficial in identifying diverse medical conditions such as the presence of tumors and artery stenosis.  
+
 #### Ja
 #### Jaime
 
@@ -41,9 +48,17 @@ When you click the **Knit** button a document will be generated that includes bo
 #### Aze
 #### Manu
 #### Justin
-#### Ja
-#### Jaime
+###### Data Science Topic: **Computer Vision**
 
+>> Description: According to Western Governors University (2021), **computer vision** is a method of enabling a machine to **extract visual information** from materials such as pictures and videos and **make inferences and decisions** based on this information with the help of machine learning. 
+
+>> Availability of the Data: The data gathered from computer vision mostly consists of **pictures and videos** in which the availability varies depending on the field and industry.
+
+>> Statistical method needed: Various methods are used in the field of computer vision, mainly involving the use of **machine learning** as well as **image analysis**.
+
+#### Ja
+#### Jaime  
+  
 This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
 
 When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
@@ -52,4 +67,16 @@ When you click the **Knit** button a document will be generated that includes bo
 
 ## References
 
-Insert references here in APA format.
+A Guide to Computer Vision and its Applications. Western Governors University. (2021, November 12). 
+
+|     Retrieved
+
+|     June 23, 2022, from https://www.wgu.edu/blog/computer-vision-applications-guide2111.html#close  
+
+Statistical Image Analysis. Darmouth Department of Mathematics. (n.d.). Retrieved June 23, 2022,
+
+|     from https://math.dartmouth.edu/~m70s20/ImageAnalysis.pdf 
+
+Upasana. (2022, April 5). Top 10 Data Science Applications. Edureka. Retrieved June 23, 2022,
+
+|     from https://www.edureka.co/blog/data-science-applications/
