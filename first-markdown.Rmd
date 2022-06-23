@@ -77,6 +77,8 @@ img {
 > In response to the global pandemic, contact tracing has proven to be an effective strategy for counteracting the quick spread of the virus. Thus, there has been an evident increase in the use of contact tracing apps in numerous establishments. Often, these apps require QR code scanning that could automate manual contact tracing, for example, **Ateneo’s Blue Pass system**. Levy and Stewart (2020) note that digital contact tracing draws upon several fields, including **data science**. Indeed, one can observe data science being applied in digital contact tracing through the *collection and storage of personal user data and health information.* This collection of data, when analyzed, then becomes valuable to national leaders and policy-makers who respond to the COVID-19 situation in the country.
 
 #### **Search Engines**
+![*Image from Small Business Mentor*](https://uploads-ssl.webflow.com/60a833a9c7b1a1d375b32252/613a14db317c2b49f6ab5395_SEO-design-1.png)
+
 >The utility of data science also extends to the mundane. Even before finishing one’s query in their search bar, Google already predicts what users want to know and displays dropdowns of possible search queries based on the data on user’s search histories and general search trends (Beam & Kohane, 2018). This feature eases user experiences as reading suggested search queries generally outpaces typing, streamlining internet browsing which has become a day-to-day task in today’s era (Brysbaert, 2019; Majaranta, MacKenzie, Aula & Räihä, 2006). The availability of suggestions also provide opportunities to browse what users might need but did not necessarily think of initially, ultimately expanding the user choices.
 
 #### **Manu**
