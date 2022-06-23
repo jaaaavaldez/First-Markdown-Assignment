@@ -3,9 +3,9 @@ title: "First Markdown Assignment"
 author: "Tina Almario, Aze Peñalosa, Manu Perez, Justin Tan, Ja Valdez, Jaime Villarosa"
 date: '2022-06-24'
 output:
-  pdf_document: default
   html_document:
     df_print: paged
+  pdf_document: default
 ---
 
 # Why Analyze Data
@@ -14,9 +14,11 @@ output:
 #### Aze
 #### Manu
 #### Justin  
-> world nowadays boasts an abundance of information that not only continuously grows, but is also easy to access. The challenge then comes in the form of filtering and processing all this information into relevant and valuable  statistics in which various inferences can be made from. This process of handling data is an invaluable procedure in interpreting what information is already available.  
+> The world nowadays boasts an abundance of information that not only continuously grows, but is also easy to access. The challenge then comes in the form of filtering and processing all this information into relevant and valuable  statistics in which various inferences can be made from. This process of handling data is an invaluable procedure in interpreting what information is already available.  
 
 #### Ja
+> In research, data analysis provides professionals with the ability to interpret raw observations and information into conclusions. Historically, the study and analysis of data has provided the academe with evidence-based breakthroughs, traversing through all fields of study. Research and development continue to revolutionize the world we live in today, utilizing data in strengthening its conceptual basis and translating these findings into innovations that can further the efficiency and quality of human life.
+
 #### Jaime
 
 This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
@@ -34,11 +36,12 @@ When you click the **Knit** button a document will be generated that includes bo
 > An application of data science is medical image analysis and computer vision. Through machine learning and other various methods, an inference can be made using information gathered from an image which is beneficial in identifying diverse medical conditions such as the presence of tumors and artery stenosis.  
 
 #### Ja
+![slay3](https://floridapolitics.com/wp-content/uploads/2015/09/BALLOT-BOX-facebook.jpg)
+> In the modern world, data science has become a key player in the **election process**. Aside from the simulation polls conducted, demographics have revolutionized the way candidates strategize their campaigns to populations with respect to their beliefs and principles. Factors such as social class, religion, and age can influence the type of politician that societies aspire to put in power. 
+
 #### Jaime
 
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
 
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
 
 ***
 
@@ -57,6 +60,20 @@ When you click the **Knit** button a document will be generated that includes bo
 >> Statistical method needed: Various methods are used in the field of computer vision, mainly involving the use of **machine learning** as well as **image analysis**.
 
 #### Ja
+
+###### Data Science Topic: **Fake News Detection**
+![fake news](https://www.cits.ucsb.edu/sites/secure.lsit.ucsb.edu.gsts.d7_cits/files/sitefiles/fakenews/bbchistory2.png) 
+
+>> Description: As much as technology can be maneuvered to spread and enhance the accessibility of information, the same powerful platforms can be weaponized to **foster misinformation and disinformation.** As a countermeasure, data science has been utilized to detect patterns of fraudulent behavior through linguistic cues such as “word patterns, syntax construction, readability features” (Kulkarni, 2021).
+
+>> Availability of the Data: Relevant data for this study can be easily acquired through online repositories such as **Nishit Patel’s Fake News Detection repositories** accessible on [GitHub] (https://github.com/nishitpatel01/Fake_News_Detection).  
+
+
+>> Statistical method needed: To facilitate the study of fake news detection, the following methods can be utilized: machine learning algorithms, deep learning, natural language processing techniques, and blockchain (Singh et al., 2020). Although there are a vast range of procedural resources to consult, Singh et al. (2020) were able to narrow down the best technology to approach fake news detection: **blockchain** for ‘critical fake news detection’ and **machine learning and natural language processing** on the commercial level. Additionally, Wang et al. (2020) mentioned that the accuracy of these methods have improved through reinforcement learning techniques to filter through both the low and high quality samples, specifically citing deep learning as the focus of their study. 
+
+>> Beneficiaries: Media Sites and General Public — Albeit this study does not have a direct beneficiary, **journalists** along with their respective **media sites** can indirectly benefit from the detection of fake news as it distinguishes the truth from rumors and false information. In the long run, battling misinformation wards off attacks against the credibility of journalists and correspondents, safeguarding the integrity of honorable news sites.   
+
+
 #### Jaime  
   
 This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
