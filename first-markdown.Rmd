@@ -110,7 +110,7 @@ img {
 > **Beneficiaries:** This topic could benefit COVID-19 patients, researchers, medical professionals, and students who are interested in studying COVID-19 or tracking the developments of the current health emergency. The development of such tool spares one from reading numerous articles for a long period of time as the tool will already summarize relevant and usable contents from the articles. 
 
 #### **Natural Language Processing Based Quick Access Chatbot For University Concerns**
-![*Image from Chapman*](https://blog-assets.freshworks.com/freshdesk/wp-content/uploads/2020/11/17171650/Chatbot-applications-2048x819.jpg)
+![*Image from FreshDesk*](https://blog-assets.freshworks.com/freshdesk/wp-content/uploads/2020/11/17171650/Chatbot-applications-2048x819.jpg)
 
 > **Description:** “I ate dinner with a fork.I ate dinner with a friend.”
 
