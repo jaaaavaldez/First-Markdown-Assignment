@@ -1,24 +1,61 @@
 ---
 title: "First Markdown Assignment"
-author: "Tina Almario, Aze Peñalosa, Manu Perez, Justin Tan, Ja Valdez, Jaime Villarosa"
+author: 
+- Tina Almario, Aze Peñalosa, Manu Perez, 
+- Justin Tan, Ja Valdez, Jaime Villarosa
 date: '2022-06-24'
 output:
   html_document:
-    df_print: paged
+  df_print: paged
   pdf_document: default
 ---
 
 <style>
 body {
-text-align: justify}
+  text-align: justify;
+  background-color: #F5F5F5;
+}
+
+h1.title {
+  text-align: center;
+  color: #CD6090;
+}
+
+h3 {
+  text-align: center;
+}
+
+h4.author, h4.date {
+  text-align: center;
+  font-style: italic;
+}
+
+h2 {
+  text-align: center;
+  color: #8B3A62;
+}
+
+img {
+  display: block;
+  float: none;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+}
 </style> 
 
-# Why Analyze Data
-![*From WT Grant Foundation*](https://wtgrantfoundation.org/library/uploads/2017/10/partners_600x400-600x350.jpg) 
+## Why Analyze Data
+![*Image from WT Grant Foundation*](https://wtgrantfoundation.org/library/uploads/2017/10/partners_600x400-600x350.jpg) 
 
 #### Tina
+> Vast amounts of data are continuously being generated and collected daily. Grus (2019) enumerates that  data is collected by websites that track every click a user makes, *pedometers that record heart rate and movement, smart gadgets that collect information about human behavior*, and many more. Existing data may not look useful at first glance, but studying, analyzing, and drawing insights from them helps humans make sense of the our changing lifestyle patterns; data analysis, and human actions that follow, helps us adapt to our ever-changing world. Additionally, analyzing data also allows humans to improve and optimize already-existing systems to respond to these modern changes and find effective solutions to contemporary issues. Ultimately, analyzing data leads our world to greater progress.
+
 #### Aze
+>
+
 #### Manu
+>
+
 #### Justin  
 > The world nowadays boasts an abundance of information that not only continuously grows, but is also easy to access. The challenge then comes in the form of filtering and processing all this information into relevant and valuable  statistics in which various inferences can be made from. This process of handling data is an invaluable procedure in interpreting what information is already available.  
 
@@ -26,77 +63,113 @@ text-align: justify}
 > In research, data analysis provides professionals with the ability to interpret raw observations and information into conclusions. Historically, the study and analysis of data has provided the academe with evidence-based breakthroughs, traversing through all fields of study. Research and development continue to revolutionize the world we live in today, utilizing data in strengthening its conceptual basis and translating these findings into innovations that can further the efficiency and quality of human life.
 
 #### Jaime
+>
 
 
 
 *** 
 
-# Data Science Applications
+## Data Science Applications
 
-#### Tina
-#### Aze
-#### Manu
-#### Justin
+#### **Contact Tracing**
+![*Image from Geospatial World*](https://www.geospatialworld.net/wp-content/uploads/2020/05/cov-ct-1.jpg)
+
+> In response to the global pandemic, contact tracing has proven to be an effective strategy for counteracting the quick spread of the virus. Thus, there has been an evident increase in the use of contact tracing apps in numerous establishments. Often, these apps require QR code scanning that could automate manual contact tracing, for example, **Ateneo’s Blue Pass system**. Levy and Stewart (2020) note that digital contact tracing draws upon several fields, including **data science**. Indeed, one can observe data science being applied in digital contact tracing through the *collection and storage of personal user data and health information.* This collection of data, when analyzed, then becomes valuable to national leaders and policy-makers who respond to the COVID-19 situation in the country.
+
+#### **Search Engines**
+>
+
+#### **Manu**
+>
+
+#### **Medical Image Analysis and Computer Vision**
 > An application of data science is medical image analysis and computer vision. Through machine learning and other various methods, an inference can be made using information gathered from an image which is beneficial in identifying diverse medical conditions such as the presence of tumors and artery stenosis.  
 
-#### Ja
-![*From Florida Politics*](https://floridapolitics.com/wp-content/uploads/2015/09/BALLOT-BOX-facebook.jpg)
+#### **Elections**
+![*Image from Florida Politics*](https://floridapolitics.com/wp-content/uploads/2015/09/BALLOT-BOX-facebook.jpg)
 
 > In the modern world, data science has become a key player in the **election process**. Aside from the simulation polls conducted, demographics have revolutionized the way candidates strategize their campaigns to populations with respect to their beliefs and principles. Factors such as social class, religion, and age can influence the type of politician that societies aspire to put in power. 
 
-#### Jaime
+#### **Weather Forecasting**
 
 
 
 ***
 
-# Data Science Topics
+## Data Science Topics
 
-#### Tina
-#### Aze
-#### Manu
-#### Justin
-###### Data Science Topic: **Computer Vision**
+#### **Automated Text Summarization for COVID-19-related Journal Articles**
+![*Image from Pan American Health Organization (PAHO)*](https://www.paho.org/sites/default/files/styles/max_1500x1500/public/2020-10/search-startegy-covid19-1400x700.jpg?itok=YEUIUxIm)
 
->> Description: According to Western Governors University (2021), **computer vision** is a method of enabling a machine to **extract visual information** from materials such as pictures and videos and **make inferences and decisions** based on this information with the help of machine learning. 
+> **Description:** Inspired by the summarization tool that Estrella et al. (2019) developed to summarize research findings on the effectiveness of leukemia treatments, I would also like to partake in the development of a tool relevant to our current COVID-19 situation. The automated text summarization tool will take journal articles about COVID-19 and generate a summary of their relevant contents.
 
->> Availability of the Data: The data gathered from computer vision mostly consists of **pictures and videos** in which the availability varies depending on the field and industry.
+> **Availability of the Data:** Several journal articles related to COVID-19 are easily accessible in scholarly search engines, digital libraries, and academic databases, such as [Google Scholar](https://scholar.google.com/), [IEEE Xplore](https://ieeexplore.ieee.org/Xplore/home.jsp), and [ScienceDirect](https://www.sciencedirect.com/).
 
->> Statistical method needed: Various methods are used in the field of computer vision, mainly involving the use of **machine learning** as well as **image analysis**.
+> **Statistical method needed:** Similar to the methods used by Estrella et al. (2019), this specific topic would also require sentence scoring, which involves cue-phrase sentence scoring, sentence inclusion of numerical data, sentence similarity, and term frequency inverse-document frequency (TF-IDF). These processes ensure the optimal performance of the summarization tool as they generate scores based on key phrases, relevant words used, word frequency, and similarity of texts or phrases between the journal articles and the generated summary. 
 
-#### Ja
+> **Beneficiaries:** This topic could benefit COVID-19 patients, researchers, medical professionals, and students who are interested in studying COVID-19 or tracking the developments of the current health emergency. The development of such tool spares one from reading numerous articles for a long period of time as the tool will already summarize relevant and usable contents from the articles. 
 
-###### Data Science Topic: **Fake News Detection**
-![*From BBC*](https://www.cits.ucsb.edu/sites/secure.lsit.ucsb.edu.gsts.d7_cits/files/sitefiles/fakenews/bbchistory2.png) 
+#### **Aze**
+#### **Manu**
+#### **Computer Vision**
 
->> Description: As much as technology can be maneuvered to spread and enhance the accessibility of information, the same powerful platforms can be weaponized to **foster misinformation and disinformation.** As a countermeasure, data science has been utilized to detect patterns of fraudulent behavior through linguistic cues such as “word patterns, syntax construction, readability features” (Kulkarni, 2021).
+> **Description:** According to Western Governors University (2021), **computer vision** is a method of enabling a machine to **extract visual information** from materials such as pictures and videos and **make inferences and decisions** based on this information with the help of machine learning. 
 
->> Availability of the Data: Relevant data for this study can be easily acquired through online repositories such as **Nishit Patel’s Fake News Detection repositories** accessible on [GitHub](https://github.com/nishitpatel01/Fake_News_Detection).  
+> **Availability of the Data:** The data gathered from computer vision mostly consists of **pictures and videos** in which the availability varies depending on the field and industry.
+
+> **Statistical method needed:** Various methods are used in the field of computer vision, mainly involving the use of **machine learning** as well as **image analysis**.
+
+#### **Fake News Detection**
+![*Image from BBC*](https://www.cits.ucsb.edu/sites/secure.lsit.ucsb.edu.gsts.d7_cits/files/sitefiles/fakenews/bbchistory2.png) 
+
+> **Description:** As much as technology can be maneuvered to spread and enhance the accessibility of information, the same powerful platforms can be weaponized to **foster misinformation and disinformation.** As a countermeasure, data science has been utilized to detect patterns of fraudulent behavior through linguistic cues such as “word patterns, syntax construction, readability features” (Kulkarni, 2021).
+
+> **Availability of the Data:** Relevant data for this study can be easily acquired through online repositories such as **Nishit Patel’s Fake News Detection repositories** accessible on [GitHub](https://github.com/nishitpatel01/Fake_News_Detection).  
 
 
->> Statistical method needed: To facilitate the study of fake news detection, the following methods can be utilized: machine learning algorithms, deep learning, natural language processing techniques, and blockchain (Singh et al., 2020). Although there are a vast range of procedural resources to consult, Singh et al. (2020) were able to narrow down the best technology to approach fake news detection: **blockchain** for ‘critical fake news detection’ and **machine learning and natural language processing** on the commercial level. Additionally, Wang et al. (2020) mentioned that the accuracy of these methods have improved through reinforcement learning techniques to filter through both the low and high quality samples, specifically citing deep learning as the focus of their study. 
+> **Statistical method needed:** To facilitate the study of fake news detection, the following methods can be utilized: machine learning algorithms, deep learning, natural language processing techniques, and blockchain (Singh et al., 2020). Although there are a vast range of procedural resources to consult, Singh et al. (2020) were able to narrow down the best technology to approach fake news detection: **blockchain** for ‘critical fake news detection’ and **machine learning and natural language processing** on the commercial level. Additionally, Wang et al. (2020) mentioned that the accuracy of these methods have improved through reinforcement learning techniques to filter through both the low and high quality samples, specifically citing deep learning as the focus of their study. 
 
->> Beneficiaries: Media Sites and General Public — Albeit this study does not have a direct beneficiary, **journalists** along with their respective **media sites** can indirectly benefit from the detection of fake news as it distinguishes the truth from rumors and false information. In the long run, battling misinformation wards off attacks against the credibility of journalists and correspondents, safeguarding the integrity of honorable news sites.   
+> **Beneficiaries:** Media Sites and General Public — Albeit this study does not have a direct beneficiary, **journalists** along with their respective **media sites** can indirectly benefit from the detection of fake news as it distinguishes the truth from rumors and false information. In the long run, battling misinformation wards off attacks against the credibility of journalists and correspondents, safeguarding the integrity of honorable news sites.   
 
 
-#### Jaime  
+#### **Jaime**  
   
 
 
 *** 
 
-## References
+### References
 
-A Guide to Computer Vision and its Applications. Western Governors University. (2021, November 12). 
+| A Guide to Computer Vision and its Applications. Western Governors University. (2021, November 12). Retrieved June 23, 2022, from https://www.wgu.edu/blog/computer-vision-applications-guide2111.html#close  
 
-|     Retrieved
+\
 
-|     June 23, 2022, from https://www.wgu.edu/blog/computer-vision-applications-guide2111.html#close  
+| Estrella, J.A., Ong, E., Gelera, C.P., Villaruel, J.S., Quinzon, C.S., & Sánchez, M.C. (2019). Automated Text Summarization of Research Papers Regarding the Effectiveness of Various Treatment Plans for Leukemia.
 
-Statistical Image Analysis. Darmouth Department of Mathematics. (n.d.). Retrieved June 23, 2022,
+\
 
-|     from https://math.dartmouth.edu/~m70s20/ImageAnalysis.pdf 
+| Geospatial World. (n.d.). [Illustration of a contact tracing application]. Retrieved June 24, 2022, from https://www.geospatialworld.net/blogs/innovative-apps-support-philippines-fight-against-covid-19/
 
-Upasana. (2022, April 5). Top 10 Data Science Applications. Edureka. Retrieved June 23, 2022,
+\
 
-|     from https://www.edureka.co/blog/data-science-applications/
+| Gruzs, J. (2019). Data Science from Scratch: First Principles with Python (2nd ed.). O’Reilly Media, Inc.
+
+\
+
+| Levy, B. & Stewart, M. (2020). A Systematic Review of the Ethics and Efficacy of Digital Contact Tracing Applications. Harvard Data Science Review, p. 4. DOI: 10.13140/RG.2.2.23432.85766
+
+\
+
+| Ogles, J. (2021). Survey says majority of Florida voters opposed to election law changes [Image]. Florida Politics. https://floridapolitics.com/archives/414872-survey-says-majority-of-florida-voters-opposed-to-election-law-changes/
+
+\
+
+| Patel, N. (2022). Fake News Detection [electronic resource: python source code and data sets]. Retrieved from https://github.com/nishitpatel01/Fake_News_Detection. 
+
+\
+
+| Statistical Image Analysis. Darmouth Department of Mathematics. (n.d.). Retrieved June 23, 2022, from https://math.dartmouth.edu/~m70s20/ImageAnalysis.pdf 
+
+\
+
+| Upasana. (2022, April 5). Top 10 Data Science Applications. Edureka. Retrieved June 23, 2022, from https://www.edureka.co/blog/data-science-applications/
