@@ -160,7 +160,7 @@ img {
 
 > <u>**Description:**</u> According to the Space Telescope Science Institute (2018), DDA is the production of astronomical knowledge built on pre-existing databases, somewhat similar to industrial data science wherein the data sets are a byproduct of other investigations rather than taken with the experiment in mind. 
 
-> <u>**Availability of the Data:**</u> The data collected are in astronomically (ha) large sets and are available and derived from astronomy research oriented databases like the Sloan Digital Sky Survey and Hubble Legacy Archive.
+> <u>**Availability of the Data:**</u> The data collected are in astronomically <i>(pun intended)</i> large sets and are available and derived from astronomy research oriented databases like the Sloan Digital Sky Survey and Hubble Legacy Archive.
 
 
 > <u>**Statistical Method/s Needed:**</u> This field requires a heavy reliance on machine learning and algorithms, given the large data sets needed to be processed. Research and development often involve astronomical data awareness, deep understanding of selection biases, and sophisticated multipoint statistics (STSI, 2018)..
