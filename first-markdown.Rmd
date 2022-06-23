@@ -1,0 +1,55 @@
+---
+title: "First Markdown Assignment"
+author: "Tina Almario, Aze Peñalosa, Manu Perez, Justin Tan, Ja Valdez, Jaime Villarosa"
+date: '2022-06-24'
+output: pdf_document
+---
+
+# Why Analyze Data
+
+#### Tina
+#### Aze
+#### Manu
+#### Justin
+#### Ja
+#### Jaime
+
+This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+
+When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+
+*** 
+
+# Data Science Applications
+
+#### Tina
+#### Aze
+#### Manu
+#### Justin
+#### Ja
+#### Jaime
+
+This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+
+When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+
+***
+
+# Data Science Topics
+
+#### Tina
+#### Aze
+#### Manu
+#### Justin
+#### Ja
+#### Jaime
+
+This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+
+When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+
+*** 
+
+## References
+
+Insert references here in APA format.
