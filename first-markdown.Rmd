@@ -1,5 +1,5 @@
 ---
-title: "First Markdown Assignment"
+title: "FIRST MARKDOWN ASSIGNMENT"
 author: 
 - Tina Almario, Aze Peñalosa, Manu Perez, 
 - Justin Tan, Ja Valdez, Jaime Villarosa
@@ -17,6 +17,7 @@ body {
 }
 
 h1.title {
+  font-style: bold;
   text-align: center;
   color: #CD6090;
 }
@@ -44,124 +45,133 @@ img {
 }
 </style> 
 
-## Why Analyze Data
+## <b><u>WHY SHOULD WE ANALYZE DATA?</u></b>
 ![*Image from WT Grant Foundation*](https://wtgrantfoundation.org/library/uploads/2017/10/partners_600x400-600x350.jpg) 
 
-#### Tina
+#### <b><u>Tina</u></b>
 > Vast amounts of data are continuously being generated and collected daily. Grus (2019) enumerates that  data is collected by websites that track every click a user makes, *pedometers that record heart rate and movement, smart gadgets that collect information about human behavior*, and many more. Existing data may not look useful at first glance, but studying, analyzing, and drawing insights from them helps humans make sense of the our changing lifestyle patterns; data analysis, and human actions that follow, helps us adapt to our ever-changing world. Additionally, analyzing data also allows humans to improve and optimize already-existing systems to respond to these modern changes and find effective solutions to contemporary issues. Ultimately, analyzing data leads our world to greater progress.
 
-#### Aze
+#### <u>Aze</u>
 >Poorly handled data costs the United States around USD 3.1 trillion each year (Cooper, 2019). Although the emergence of digital technology has saturated the world with data, most data remains unhelpful unless analysis and processing of data takes place. Its wide-ranging utility when analyzed promoted businesses and organizations to adopt data science The ability of data science in identifying opportunities serves as a specific instance. Cooper (2019) elaborates that the exploratory nature of data scientists compels them to question existing assumptions and processes in order to come up with additional methods and analytical algorithms, as they continually interact with the business’s analytics system.
 
-#### Manu
+#### <u>Manu</u>
 >
 
-#### Justin  
+#### <u>Justin</u>  
 > The world nowadays boasts an abundance of information that not only continuously grows, but is also easy to access. The challenge then comes in the form of filtering and processing all this information into relevant and valuable  statistics in which various inferences can be made from. This process of handling data is an invaluable procedure in interpreting what information is already available.  
 
-#### Ja
+#### <u>Ja</u>
 > In research, data analysis provides professionals with the ability to interpret raw observations and information into conclusions. Historically, the study and analysis of data has provided the academe with evidence-based breakthroughs, traversing through all fields of study. Research and development continue to revolutionize the world we live in today, utilizing data in strengthening its conceptual basis and translating these findings into innovations that can further the efficiency and quality of human life.
 
-#### Jaime
+#### <u>Jaime</u>
 > Studying and analyzing data, regardless of what field it's implemented in, helps predict their corresponding trends and streamlines the information flow.  As advancements continue to be a constant phenomena and pile up, the information and knowledge needed to aid in such endeavors will be collected and analyzed in a much more efficient manner, contributing to a much faster cycle in research and development.
 
 
 
 *** 
 
-## Data Science Applications
+## <u>DATA SCIENCE APPLICATIONS</u>
 
-#### **Contact Tracing**
+### <u>**CONTACT TRACING**</u>
 ![*Image from Geospatial World*](https://www.geospatialworld.net/wp-content/uploads/2020/05/cov-ct-1.jpg)
 
 > In response to the global pandemic, contact tracing has proven to be an effective strategy for counteracting the quick spread of the virus. Thus, there has been an evident increase in the use of contact tracing apps in numerous establishments. Often, these apps require QR code scanning that could automate manual contact tracing, for example, **Ateneo’s Blue Pass system**. Levy and Stewart (2020) note that digital contact tracing draws upon several fields, including **data science**. Indeed, one can observe data science being applied in digital contact tracing through the *collection and storage of personal user data and health information.* This collection of data, when analyzed, then becomes valuable to national leaders and policy-makers who respond to the COVID-19 situation in the country.
 
-#### **Search Engines**
+### <u>**SEARCH ENGINES**</u>
 ![*Image from Small Business Mentor*](https://uploads-ssl.webflow.com/60a833a9c7b1a1d375b32252/613a14db317c2b49f6ab5395_SEO-design-1.png)
 
 >The utility of data science also extends to the mundane. Even before finishing one’s query in their search bar, Google already predicts what users want to know and displays dropdowns of possible search queries based on the data on user’s search histories and general search trends (Beam & Kohane, 2018). This feature eases user experiences as reading suggested search queries generally outpaces typing, streamlining internet browsing which has become a day-to-day task in today’s era (Brysbaert, 2019; Majaranta, MacKenzie, Aula & Räihä, 2006). The availability of suggestions also provide opportunities to browse what users might need but did not necessarily think of initially, ultimately expanding the user choices.
 
-#### **Manu**
+### <u>**MANU**</u>
 >
 
-#### **Medical Image Analysis and Computer Vision**
+### <u>**MEDICAL IMAGE ANALYSIS AND COMPUTER VISION**</u>
 > An application of data science is medical image analysis and computer vision. Through machine learning and other various methods, an inference can be made using information gathered from an image which is beneficial in identifying diverse medical conditions such as the presence of tumors and artery stenosis.  
 
-#### **Elections**
+### <u>**ELECTIONS**</u>
 ![*Image from Florida Politics*](https://floridapolitics.com/wp-content/uploads/2015/09/BALLOT-BOX-facebook.jpg)
 
 > In the modern world, data science has become a key player in the **election process**. Aside from the simulation polls conducted, demographics have revolutionized the way candidates strategize their campaigns to populations with respect to their beliefs and principles. Factors such as social class, religion, and age can influence the type of politician that societies aspire to put in power. 
 
-#### **Weather Forecasting**
-![Image from Analytic Steps](https://www.analyticssteps.com/backend/media/thumbnail/6006173/6278986_1571298721_Weather_Forecoast_Graphics.jpg)
+### <u>**WEATHER FORECASTING**</u>
+![*Image from Analytic Steps*](https://www.analyticssteps.com/backend/media/thumbnail/6006173/6278986_1571298721_Weather_Forecoast_Graphics.jpg)
 
 > Data science is used in weather forecasting — as the weather is a factor that can affect almost everyone, if not all of them, systems are made in predicting the climate. It aids people, businesses, and other entities in preparing accordingly based on the incoming weather. An example of this dynamic is when weather predictions help farmers in planning out for their harvest seasons.
 
 
 ***
 
-## Data Science Topics
+## <u>DATA SCIENCE TOPICS</u>
 
-#### **Automated Text Summarization for COVID-19-related Journal Articles**
+### <u>**AUTOMATED TEXT SUMMARIZATION FOR COVID-19-RELATED JOURNAL ARTICLES**</u>
 ![*Image from Pan American Health Organization (PAHO)*](https://www.paho.org/sites/default/files/styles/max_1500x1500/public/2020-10/search-startegy-covid19-1400x700.jpg?itok=YEUIUxIm)
 
-> **Description:** Inspired by the summarization tool that Estrella et al. (2019) developed to summarize research findings on the effectiveness of leukemia treatments, I would also like to partake in the development of a tool relevant to our current COVID-19 situation. The automated text summarization tool will take journal articles about COVID-19 and generate a summary of their relevant contents.
+> <u>**Description:**</u> Inspired by the summarization tool that Estrella et al. (2019) developed to summarize research findings on the effectiveness of leukemia treatments, I would also like to partake in the development of a tool relevant to our current COVID-19 situation. The automated text summarization tool will take journal articles about COVID-19 and generate a summary of their relevant contents.
 
-> **Availability of the Data:** Several journal articles related to COVID-19 are easily accessible in scholarly search engines, digital libraries, and academic databases, such as [Google Scholar](https://scholar.google.com/), [IEEE Xplore](https://ieeexplore.ieee.org/Xplore/home.jsp), and [ScienceDirect](https://www.sciencedirect.com/).
+> <u>**Availability of the Data:**</u> Several journal articles related to COVID-19 are easily accessible in scholarly search engines, digital libraries, and academic databases, such as [Google Scholar](https://scholar.google.com/), [IEEE Xplore](https://ieeexplore.ieee.org/Xplore/home.jsp), and [ScienceDirect](https://www.sciencedirect.com/).
 
-> **Statistical method needed:** Similar to the methods used by Estrella et al. (2019), this specific topic would also require sentence scoring, which involves cue-phrase sentence scoring, sentence inclusion of numerical data, sentence similarity, and term frequency inverse-document frequency (TF-IDF). These processes ensure the optimal performance of the summarization tool as they generate scores based on key phrases, relevant words used, word frequency, and similarity of texts or phrases between the journal articles and the generated summary. 
+> <u>**Statistical Method/s Needed:**</u> Similar to the methods used by Estrella et al. (2019), this specific topic would also require sentence scoring, which involves cue-phrase sentence scoring, sentence inclusion of numerical data, sentence similarity, and term frequency inverse-document frequency (TF-IDF). These processes ensure the optimal performance of the summarization tool as they generate scores based on key phrases, relevant words used, word frequency, and similarity of texts or phrases between the journal articles and the generated summary. 
 
-> **Beneficiaries:** This topic could benefit COVID-19 patients, researchers, medical professionals, and students who are interested in studying COVID-19 or tracking the developments of the current health emergency. The development of such tool spares one from reading numerous articles for a long period of time as the tool will already summarize relevant and usable contents from the articles. 
+> <u>**Beneficiaries:**</u> This topic could benefit COVID-19 patients, researchers, medical professionals, and students who are interested in studying COVID-19 or tracking the developments of the current health emergency. The development of such tool spares one from reading numerous articles for a long period of time as the tool will already summarize relevant and usable contents from the articles. 
 
-#### **Natural Language Processing Based Quick Access Chatbot For University Concerns**
+### <u>**NATURAL LANGUAGE PROCESSING BASED QUICK ACCESS CHATBOT FOR UNIVERSITY CONCERNS**</u>
 ![*Image from FreshDesk*](https://blog-assets.freshworks.com/freshdesk/wp-content/uploads/2020/11/17171650/Chatbot-applications-2048x819.jpg)
 
-> **Description:** “I ate dinner with a fork.I ate dinner with a friend.”
-
+> <u>**Description:**</u> <i>“I ate dinner with a fork. I ate dinner with a friend.”</i>
+>
 > Chowdhary (2020) illustrates how the two preceding sentences share almost the same structure, only differing in one word. Nevertheless, most readers can tell that the meanings they hold demonstrate differences that go beyond one word change. The first sentence describes how the speaker used a fork to facilitate the eating process, but the same cannot be said for the latter, as  the speaker meant that a friend was in close proximity during dinner, rather than using a friend as a tool for eating.
-
+>
 > In the contemporary world progressing towards timeliness and efficiency, human intervention in analyzing the abundant volume of natural language data becomes increasingly difficult, especially within any given time limits (Manning, 1999). The nuances in language can be readily sensed by humans that machines cannot comprehend with basic programming.
-
+>
 > Addressing the complexities of human language requires a specific application of data science called Natural Language Processing (NLP). NLP covers wide-ranging applications, but one specific application that demonstrates feasibility and utility is the creation of a Messenger chatbot that can address the university related concerns or student life queries of Ateneo students without the need for mobile data or internet, given the ability of Messenger to function on Free Data. The application of NLP allows the chatbot to understand the nuances of the students’ queries to an extent and generate an appropriate response.
 
-> **Availability of the Data:** Information about Ateneo de Manila University lies across its varying websites, such as [Ateneo’s official website](https://www.ateneo.edu/) and [LS One](https://sites.google.com/ateneo.edu/ls-one).The NLP-based chatbot can also be supplied with relevant data related to student life from ADMU Freedom Wall in Facebook and [ADMU subreddit](https://www.reddit.com/r/ADMU/)
+> <u>**Availability of the Data:**</u> Information about Ateneo de Manila University lies across its varying websites, such as [Ateneo’s official website](https://www.ateneo.edu/) and [LS One](https://sites.google.com/ateneo.edu/ls-one).The NLP-based chatbot can also be supplied with relevant data related to student life from ADMU Freedom Wall in Facebook and [ADMU subreddit](https://www.reddit.com/r/ADMU/)
 
-> **Statistical method needed:** Manning (2019) points out that NLP combines the swift computational power of machines with repositories of language data and probability theory to determine the common patterns that occur in language use to decide an appropriate response. The NLP-based chatbot can also fine tune its performance, vocabulary, and responses by employing statistical models for concept and structure prediction based on neural network architectures (Cahn, 2017).
+> <u>**Statistical Method/s Needed:**</u> Manning (2019) points out that NLP combines the swift computational power of machines with repositories of language data and probability theory to determine the common patterns that occur in language use to decide an appropriate response. The NLP-based chatbot can also fine tune its performance, vocabulary, and responses by employing statistical models for concept and structure prediction based on neural network architectures (Cahn, 2017).
 
-> **Beneficiaries:** The NLP-based chatbot streamlines the information seeking process for Ateneo students by uniting various datasets about the university and its student life into one entity that can be accessed with a quick Messenger chat and question. The chatbot also enables students, especially those in the online setting, who are experiencing either momentary or constant internet issues to get their basic concerns addressed.
+> <u>**Beneficiaries:**</u> The NLP-based chatbot streamlines the information seeking process for Ateneo students by uniting various datasets about the university and its student life into one entity that can be accessed with a quick Messenger chat and question. The chatbot also enables students, especially those in the online setting, who are experiencing either momentary or constant internet issues to get their basic concerns addressed.
 
 
-#### **Manu**
-#### **Computer Vision**
+### <u>**MANU**</u>
 
-> **Description:** According to Western Governors University (2021), **computer vision** is a method of enabling a machine to **extract visual information** from materials such as pictures and videos and **make inferences and decisions** based on this information with the help of machine learning. 
+### <u>**COMPUTER VISION**</u>
 
-> **Availability of the Data:** The data gathered from computer vision mostly consists of **pictures and videos** in which the availability varies depending on the field and industry.
+> <u>**Description:**</u> According to Western Governors University (2021), **computer vision** is a method of enabling a machine to **extract visual information** from materials such as pictures and videos and **make inferences and decisions** based on this information with the help of machine learning. 
 
-> **Statistical method needed:** Various methods are used in the field of computer vision, mainly involving the use of **machine learning** as well as **image analysis**.
+> <u>**Availability of the Data:**</u> The data gathered from computer vision mostly consists of **pictures and videos** in which the availability varies depending on the field and industry.
 
-#### **Fake News Detection**
+> <u>**Statistical Method/s Needed:**</u> Various methods are used in the field of computer vision, mainly involving the use of **machine learning** as well as **image analysis**.
+
+### <u>**FAKE NEWS DETECTION**</u>
 ![*Image from BBC*](https://www.cits.ucsb.edu/sites/secure.lsit.ucsb.edu.gsts.d7_cits/files/sitefiles/fakenews/bbchistory2.png) 
 
-> **Description:** As much as technology can be maneuvered to spread and enhance the accessibility of information, the same powerful platforms can be weaponized to **foster misinformation and disinformation.** As a countermeasure, data science has been utilized to detect patterns of fraudulent behavior through linguistic cues such as “word patterns, syntax construction, readability features” (Kulkarni, 2021).
+> <u>**Description:**</u> As much as technology can be maneuvered to spread and enhance the accessibility of information, the same powerful platforms can be weaponized to **foster misinformation and disinformation.** As a countermeasure, data science has been utilized to detect patterns of fraudulent behavior through linguistic cues such as “word patterns, syntax construction, readability features” (Kulkarni, 2021).
 
-> **Availability of the Data:** Relevant data for this study can be easily acquired through online repositories such as **Nishit Patel’s Fake News Detection repositories** accessible on [GitHub](https://github.com/nishitpatel01/Fake_News_Detection).  
-
-
-> **Statistical method needed:** To facilitate the study of fake news detection, the following methods can be utilized: machine learning algorithms, deep learning, natural language processing techniques, and blockchain (Singh et al., 2020). Although there are a vast range of procedural resources to consult, Singh et al. (2020) were able to narrow down the best technology to approach fake news detection: **blockchain** for ‘critical fake news detection’ and **machine learning and natural language processing** on the commercial level. Additionally, Wang et al. (2020) mentioned that the accuracy of these methods have improved through reinforcement learning techniques to filter through both the low and high quality samples, specifically citing deep learning as the focus of their study. 
-
-> **Beneficiaries:** Media Sites and General Public — Albeit this study does not have a direct beneficiary, **journalists** along with their respective **media sites** can indirectly benefit from the detection of fake news as it distinguishes the truth from rumors and false information. In the long run, battling misinformation wards off attacks against the credibility of journalists and correspondents, safeguarding the integrity of honorable news sites.   
+> <u>**Availability of the Data:**</u> Relevant data for this study can be easily acquired through online repositories such as **Nishit Patel’s Fake News Detection repositories** accessible on [GitHub](https://github.com/nishitpatel01/Fake_News_Detection).  
 
 
-#### **Jaime**  
-  
+> <u>**Statistical Method/s Needed:**</u> To facilitate the study of fake news detection, the following methods can be utilized: machine learning algorithms, deep learning, natural language processing techniques, and blockchain (Singh et al., 2020). Although there are a vast range of procedural resources to consult, Singh et al. (2020) were able to narrow down the best technology to approach fake news detection: **blockchain** for ‘critical fake news detection’ and **machine learning and natural language processing** on the commercial level. Additionally, Wang et al. (2020) mentioned that the accuracy of these methods have improved through reinforcement learning techniques to filter through both the low and high quality samples, specifically citing deep learning as the focus of their study. 
+
+> <u>**Beneficiaries:**</u> Media Sites and General Public — Albeit this study does not have a direct beneficiary, **journalists** along with their respective **media sites** can indirectly benefit from the detection of fake news as it distinguishes the truth from rumors and false information. In the long run, battling misinformation wards off attacks against the credibility of journalists and correspondents, safeguarding the integrity of honorable news sites.   
+
+
+### <u>**DATA DRIVEN ASTRONOMY**</u>  
+![*Image from TMT International Observatory*](https://www.tmt.org/assets/tmt_comp_background-f920515202d7fa2ce6dc8c485d53df5c2a9f5f3e4ff1414500ab8d5da629e49e.jpg)
+
+> <u>**Description:**</u> According to the Space Telescope Science Institute (2018), DDA is the production of astronomical knowledge built on pre-existing databases, somewhat similar to industrial data science wherein the data sets are a byproduct of other investigations rather than taken with the experiment in mind. 
+
+> <u>**Availability of the Data:**</u> The data collected are in astronomically (ha) large sets and are available and derived from astronomy research oriented databases like the Sloan Digital Sky Survey and Hubble Legacy Archive.
+
+
+> <u>**Statistical Method/s Needed:**</u> This field requires a heavy reliance on machine learning and algorithms, given the large data sets needed to be processed. Research and development often involve astronomical data awareness, deep understanding of selection biases, and sophisticated multipoint statistics (STSI, 2018)..
+
+> <u>**Beneficiaries:**</u> The community that would primarily benefit from these studies are astrophysicists and researchers in the field. The accumulation of the data can help scientists understand otherworldly phenomena better as well as build on our current knowledge of physics and other sciences.
 
 
 *** 
 
-### References
-
-| A Guide to Computer Vision and its Applications. Western Governors University. (2021, November 12). Retrieved June 23, 2022, from https://www.wgu.edu/blog/computer-vision-applications-guide2111.html#close  
+### <u>REFERENCES</u>
+| Data Flair. (n.d.). Data Science for Weather Prediction - The Prerequisite to all Natural Disasters. Data Flair. https://data-flair.training/blogs/data-science-for-weather-prediction/.
 
 \
 
@@ -189,7 +199,19 @@ img {
 
 \
 
-| Statistical Image Analysis. Darmouth Department of Mathematics. (n.d.). Retrieved June 23, 2022, from https://math.dartmouth.edu/~m70s20/ImageAnalysis.pdf 
+| Peek, Joshua.  (2018). Data Science in Astronomy, Three Ways. Space Telescope Science Institute. https://www.stsci.edu/contents/newsletters/2018-volume-35-issue-01/data-science-in-astronomy-three-ways#:~:text=Data%2DDriven%20Astronomy%20(DDA),of%20other%20processes%20or%20investigations.
+
+\
+
+| Statistical Image Analysis. Darmouth Department of Mathematics. (n.d.). Retrieved June 23, 2022, from https://math.dartmouth.edu/~m70s20/ImageAnalysis.pdf.
+
+\
+
+| TMT International Observatory. (2022). https://www.tmt.org/page/observatory.
+
+\
+
+| Tyagi, Neelam. (2019, October 17). Weather Forecasting: How Does Big Data Analytics Magnify it?. Analytic Steps. https://www.analyticssteps.com/blogs/weather-forecasting-how-do-big-data-analytics-magnify-it.
 
 \
 
