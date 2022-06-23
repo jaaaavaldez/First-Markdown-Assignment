@@ -93,7 +93,9 @@ img {
 > In the modern world, data science has become a key player in the **election process**. Aside from the simulation polls conducted, demographics have revolutionized the way candidates strategize their campaigns to populations with respect to their beliefs and principles. Factors such as social class, religion, and age can influence the type of politician that societies aspire to put in power. 
 
 #### **Weather Forecasting**
+![Image from Analytic Steps](https://www.analyticssteps.com/backend/media/thumbnail/6006173/6278986_1571298721_Weather_Forecoast_Graphics.jpg)
 
+> Data science is used in weather forecasting — as the weather is a factor that can affect almost everyone, if not all of them, systems are made in predicting the climate. It aids people, businesses, and other entities in preparing accordingly based on the incoming weather. An example of this dynamic is when weather predictions help farmers in planning out for their harvest seasons.
 
 
 ***
