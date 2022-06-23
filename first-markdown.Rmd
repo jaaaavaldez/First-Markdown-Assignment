@@ -63,7 +63,7 @@ img {
 > In research, data analysis provides professionals with the ability to interpret raw observations and information into conclusions. Historically, the study and analysis of data has provided the academe with evidence-based breakthroughs, traversing through all fields of study. Research and development continue to revolutionize the world we live in today, utilizing data in strengthening its conceptual basis and translating these findings into innovations that can further the efficiency and quality of human life.
 
 #### Jaime
->
+> Studying and analyzing data, regardless of what field it's implemented in, helps predict their corresponding trends and streamlines the information flow.  As advancements continue to be a constant phenomena and pile up, the information and knowledge needed to aid in such endeavors will be collected and analyzed in a much more efficient manner, contributing to a much faster cycle in research and development.
 
 
 
