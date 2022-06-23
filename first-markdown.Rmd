@@ -1,11 +1,11 @@
 ---
 title: "FIRST MARKDOWN ASSIGNMENT"
-author: 
+author:  
 - Tina Almario, Aze Peñalosa, Manu Perez, 
 - Justin Tan, Ja Valdez, Jaime Villarosa
 date: '2022-06-24'
 output:
-  html_document:
+  html_document: default
   df_print: paged
   pdf_document: default
 ---
@@ -86,6 +86,8 @@ img {
 >
 
 ### <u>**MEDICAL IMAGE ANALYSIS AND COMPUTER VISION**</u>
+![*Image from Roboticsbiz*](https://roboticsbiz.com/wp-content/uploads/2021/02/Medical-Image-Processing.jpg)
+
 > An application of data science is medical image analysis and computer vision. Through machine learning and other various methods, an inference can be made using information gathered from an image which is beneficial in identifying diverse medical conditions such as the presence of tumors and artery stenosis.  
 
 ### <u>**ELECTIONS**</u>
@@ -135,12 +137,15 @@ img {
 ### <u>**MANU**</u>
 
 ### <u>**COMPUTER VISION**</u>
+![*Image from Ilija Mihajlovic*](https://miro.medium.com/max/1400/1*8gmgaAkFdI-9OHY5cA93xQ.png)
 
 > <u>**Description:**</u> According to Western Governors University (2021), **computer vision** is a method of enabling a machine to **extract visual information** from materials such as pictures and videos and **make inferences and decisions** based on this information with the help of machine learning. 
 
 > <u>**Availability of the Data:**</u> The data gathered from computer vision mostly consists of **pictures and videos** in which the availability varies depending on the field and industry.
 
-> <u>**Statistical Method/s Needed:**</u> Various methods are used in the field of computer vision, mainly involving the use of **machine learning** as well as **image analysis**.
+> <u>**Statistical Method/s Needed:**</u> Various methods are used in the field of computer vision, mainly involving the use of **machine learning** as well as **image analysis**.  
+
+> <u>**Beneficiaries:**</u> As computer vision in general encompasses a broad scope, a number of different industries would benefit from this. The medical industry would benefit in having a more advanced method for gathering and analyzing info from real world sources such as photos which can be taken in real time. This would also be beneficial in security, with cameras being able to detect potential threats more efficiently.
 
 ### <u>**FAKE NEWS DETECTION**</u>
 ![*Image from BBC*](https://www.cits.ucsb.edu/sites/secure.lsit.ucsb.edu.gsts.d7_cits/files/sitefiles/fakenews/bbchistory2.png) 
