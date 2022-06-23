@@ -180,6 +180,10 @@ img {
 
 \
 
+| Deep Learning In Medical Image Processing - Scope and Challenges. RoboticsBiz. (2021, February 4). Retrieved June 24, 2022, from https://roboticsbiz.com/deep-learning-in-medical-image-processing-scope-and-challenges/
+
+\
+
 | Estrella, J.A., Ong, E., Gelera, C.P., Villaruel, J.S., Quinzon, C.S., & Sánchez, M.C. (2019). Automated Text Summarization of Research Papers Regarding the Effectiveness of Various Treatment Plans for Leukemia.
 
 \
@@ -193,6 +197,10 @@ img {
 \
 
 | Levy, B. & Stewart, M. (2020). A Systematic Review of the Ethics and Efficacy of Digital Contact Tracing Applications. Harvard Data Science Review, p. 4. DOI: 10.13140/RG.2.2.23432.85766
+
+\
+
+| Mihajlovic, I. (2019, April 26). Everything You Ever Wanted To Know About Computer Vision. Towards Data Science. Retrieved June 24, 2022, from https://towardsdatascience.com/everything-you-ever-wanted-to-know-about-computer-vision-heres-a-look-why-it-s-so-awesome-e8a58dfb641
 
 \
 
