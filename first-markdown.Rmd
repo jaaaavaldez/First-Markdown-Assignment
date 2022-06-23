@@ -9,7 +9,7 @@ output:
 ---
 
 # Why Analyze Data
-![From WT Grant Foundation](https://wtgrantfoundation.org/library/uploads/2017/10/partners_600x400-600x350.jpg) 
+![*From WT Grant Foundation*](https://wtgrantfoundation.org/library/uploads/2017/10/partners_600x400-600x350.jpg) 
 
 #### Tina
 #### Aze
@@ -35,7 +35,7 @@ output:
 > An application of data science is medical image analysis and computer vision. Through machine learning and other various methods, an inference can be made using information gathered from an image which is beneficial in identifying diverse medical conditions such as the presence of tumors and artery stenosis.  
 
 #### Ja
-![From Florida Politics](https://floridapolitics.com/wp-content/uploads/2015/09/BALLOT-BOX-facebook.jpg)
+![*From Florida Politics*](https://floridapolitics.com/wp-content/uploads/2015/09/BALLOT-BOX-facebook.jpg)
 > In the modern world, data science has become a key player in the **election process**. Aside from the simulation polls conducted, demographics have revolutionized the way candidates strategize their campaigns to populations with respect to their beliefs and principles. Factors such as social class, religion, and age can influence the type of politician that societies aspire to put in power. 
 
 #### Jaime
@@ -61,7 +61,7 @@ output:
 #### Ja
 
 ###### Data Science Topic: **Fake News Detection**
-![From BBC](https://www.cits.ucsb.edu/sites/secure.lsit.ucsb.edu.gsts.d7_cits/files/sitefiles/fakenews/bbchistory2.png) 
+![*From BBC*](https://www.cits.ucsb.edu/sites/secure.lsit.ucsb.edu.gsts.d7_cits/files/sitefiles/fakenews/bbchistory2.png) 
 
 >> Description: As much as technology can be maneuvered to spread and enhance the accessibility of information, the same powerful platforms can be weaponized to **foster misinformation and disinformation.** As a countermeasure, data science has been utilized to detect patterns of fraudulent behavior through linguistic cues such as “word patterns, syntax construction, readability features” (Kulkarni, 2021).
 
