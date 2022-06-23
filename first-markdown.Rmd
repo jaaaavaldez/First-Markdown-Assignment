@@ -51,7 +51,7 @@ img {
 > Vast amounts of data are continuously being generated and collected daily. Grus (2019) enumerates that  data is collected by websites that track every click a user makes, *pedometers that record heart rate and movement, smart gadgets that collect information about human behavior*, and many more. Existing data may not look useful at first glance, but studying, analyzing, and drawing insights from them helps humans make sense of the our changing lifestyle patterns; data analysis, and human actions that follow, helps us adapt to our ever-changing world. Additionally, analyzing data also allows humans to improve and optimize already-existing systems to respond to these modern changes and find effective solutions to contemporary issues. Ultimately, analyzing data leads our world to greater progress.
 
 #### Aze
->
+>Poorly handled data costs the United States around USD 3.1 trillion each year (Cooper, 2019). Although the emergence of digital technology has saturated the world with data, most data remains unhelpful unless analysis and processing of data takes place. Its wide-ranging utility when analyzed promoted businesses and organizations to adopt data science The ability of data science in identifying opportunities serves as a specific instance. Cooper (2019) elaborates that the exploratory nature of data scientists compels them to question existing assumptions and processes in order to come up with additional methods and analytical algorithms, as they continually interact with the business’s analytics system.
 
 #### Manu
 >
@@ -77,7 +77,7 @@ img {
 > In response to the global pandemic, contact tracing has proven to be an effective strategy for counteracting the quick spread of the virus. Thus, there has been an evident increase in the use of contact tracing apps in numerous establishments. Often, these apps require QR code scanning that could automate manual contact tracing, for example, **Ateneo’s Blue Pass system**. Levy and Stewart (2020) note that digital contact tracing draws upon several fields, including **data science**. Indeed, one can observe data science being applied in digital contact tracing through the *collection and storage of personal user data and health information.* This collection of data, when analyzed, then becomes valuable to national leaders and policy-makers who respond to the COVID-19 situation in the country.
 
 #### **Search Engines**
->
+>The utility of data science also extends to the mundane. Even before finishing one’s query in their search bar, Google already predicts what users want to know and displays dropdowns of possible search queries based on the data on user’s search histories and general search trends (Beam & Kohane, 2018). This feature eases user experiences as reading suggested search queries generally outpaces typing, streamlining internet browsing which has become a day-to-day task in today’s era (Brysbaert, 2019; Majaranta, MacKenzie, Aula & Räihä, 2006). The availability of suggestions also provide opportunities to browse what users might need but did not necessarily think of initially, ultimately expanding the user choices.
 
 #### **Manu**
 >
@@ -109,7 +109,25 @@ img {
 
 > **Beneficiaries:** This topic could benefit COVID-19 patients, researchers, medical professionals, and students who are interested in studying COVID-19 or tracking the developments of the current health emergency. The development of such tool spares one from reading numerous articles for a long period of time as the tool will already summarize relevant and usable contents from the articles. 
 
-#### **Aze**
+#### **Natural Language Processing Based Quick Access Chatbot For University Concerns**
+![*Image from Chapman*](https://www.comm100.com/wp-content/uploads/images/blog-banner-ai-powered-chatbot-1.png)
+
+> **Description:** “I ate dinner with a fork.”
+> “I ate dinner with a friend.”
+
+> Chowdhary (2020) illustrates how the two preceding sentences share almost the same structure, only differing in one word. Nevertheless, most readers can tell that the meanings they hold demonstrate differences that go beyond one word change. The first sentence describes how the speaker used a fork to facilitate the eating process, but the same cannot be said for the latter, as  the speaker meant that a friend was in close proximity during dinner, rather than using a friend as a tool for eating.
+
+> In the contemporary world progressing towards timeliness and efficiency, human intervention in analyzing the abundant volume of natural language data becomes increasingly difficult, especially within any given time limits (Manning, 1999). The nuances in language can be readily sensed by humans that machines cannot comprehend with basic programming.
+
+> Addressing the complexities of human language requires a specific application of data science called Natural Language Processing (NLP). NLP covers wide-ranging applications, but one specific application that demonstrates feasibility and utility is the creation of a Messenger chatbot that can address the university related concerns or student life queries of Ateneo students without the need for mobile data or internet, given the ability of Messenger to function on Free Data. The application of NLP allows the chatbot to understand the nuances of the students’ queries to an extent and generate an appropriate response.
+
+> **Availability of the Data:** Information about Ateneo de Manila University lies across its varying websites, such as [Ateneo’s official website](https://www.ateneo.edu/) and [LS One](https://sites.google.com/ateneo.edu/ls-one).The NLP-based chatbot can also be supplied with relevant data related to student life from ADMU Freedom Wall in Facebook and [ADMU subreddit](https://www.reddit.com/r/ADMU/)
+
+> **Statistical method needed:** Manning (2019) points out that NLP combines the swift computational power of machines with repositories of language data and probability theory to determine the common patterns that occur in language use to decide an appropriate response. The NLP-based chatbot can also fine tune its performance, vocabulary, and responses by employing statistical models for concept and structure prediction based on neural network architectures (Cahn, 2017).
+
+> **Beneficiaries:** The NLP-based chatbot streamlines the information seeking process for Ateneo students by uniting various datasets about the university and its student life into one entity that can be accessed with a quick Messenger chat and question. The chatbot also enables students, especially those in the online setting, who are experiencing either momentary or constant internet issues to get their basic concerns addressed.
+
+
 #### **Manu**
 #### **Computer Vision**
 
