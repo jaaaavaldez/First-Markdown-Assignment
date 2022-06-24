@@ -52,10 +52,10 @@ img {
 > Vast amounts of data are continuously being generated and collected daily. Grus (2019) enumerates that  data is collected by websites that track every click a user makes, *pedometers that record heart rate and movement, smart gadgets that collect information about human behavior*, and many more. Existing data may not look useful at first glance, but studying, analyzing, and drawing insights from them helps humans make sense of the our changing lifestyle patterns; data analysis, and human actions that follow, helps us adapt to our ever-changing world. Additionally, analyzing data also allows humans to improve and optimize already-existing systems to respond to these modern changes and find effective solutions to contemporary issues. Ultimately, analyzing data leads our world to greater progress.
 
 #### <u>Aze</u>
->Poorly handled data costs the United States around USD 3.1 trillion each year (Cooper, 2019). Although the emergence of digital technology has saturated the world with data, most data remains unhelpful unless analysis and processing of data takes place. Its wide-ranging utility when analyzed promoted businesses and organizations to adopt data science The ability of data science in identifying opportunities serves as a specific instance. Cooper (2019) elaborates that the exploratory nature of data scientists compels them to question existing assumptions and processes in order to come up with additional methods and analytical algorithms, as they continually interact with the business’s analytics system.
+> Poorly handled data costs the United States around USD 3.1 trillion each year (Cooper, 2019). Although the emergence of digital technology has saturated the world with data, most data remains unhelpful unless analysis and processing of data takes place. Its wide-ranging utility when analyzed promoted businesses and organizations to adopt data science The ability of data science in identifying opportunities serves as a specific instance. Cooper (2019) elaborates that the exploratory nature of data scientists compels them to question existing assumptions and processes in order to come up with additional methods and analytical algorithms, as they continually interact with the business’s analytics system.
 
 #### <u>Manu</u>
->
+> The analysis of data is important because it allows us to make sense of events in our society. By learning data science, analysts are taught fundamental principles to be utilized in gathering useful information from datasets (Provost & Fawcett, 2013). Data analysis breaks down large sets of numbers and information into manageable and comprehensible pieces, where trends and patterns can be observed. From this, people can then utilize this knowledge to make informed data-driven decisions with a different perspective. Because of the power of data analysis, this technique is prominent in many different fields encountered in daily life.
 
 #### <u>Justin</u>  
 > The world nowadays boasts an abundance of information that not only continuously grows, but is also easy to access. The challenge then comes in the form of filtering and processing all this information into relevant and valuable  statistics in which various inferences can be made from. This process of handling data is an invaluable procedure in interpreting what information is already available.  
@@ -82,8 +82,10 @@ img {
 
 >The utility of data science also extends to the mundane. Even before finishing one’s query in their search bar, Google already predicts what users want to know and displays dropdowns of possible search queries based on the data on user’s search histories and general search trends (Beam & Kohane, 2018). This feature eases user experiences as reading suggested search queries generally outpaces typing, streamlining internet browsing which has become a day-to-day task in today’s era (Brysbaert, 2019; Majaranta, MacKenzie, Aula & Räihä, 2006). The availability of suggestions also provide opportunities to browse what users might need but did not necessarily think of initially, ultimately expanding the user choices.
 
-### <u>**MANU**</u>
->
+### <u>**TARGETED ADVERTISING**</u>
+![*Image from Global Reach*](https://www.globalreach.com/posts/81273a4db2c5407293d4fb47c78d356c/image/embed)
+
+> Advertisements are extremely prevalent in today’s digital age, with product placement showing up on many different media, most notably on sites like YouTube and Facebook. There is a lot of work that goes on behind the scenes in the creation and distribution of these materials. Data science is heavily used in today’s advertising landscape, particularly with the concept of targeted advertising. Product companies are noted to invest a significant amount of resources in paying market research firms to collect information about their potential consumers (Iyer et. al., 2004). With this knowledge, companies are able to make informed decisions on what types of advertisements would work best in promoting their products, as well as with which groups of people they would have the most luck targeting with their promotional materials.
 
 ### <u>**MEDICAL IMAGE ANALYSIS AND COMPUTER VISION**</u>
 ![*Image from Roboticsbiz*](https://roboticsbiz.com/wp-content/uploads/2021/02/Medical-Image-Processing.jpg)
@@ -134,7 +136,18 @@ img {
 > <u>**Beneficiaries:**</u> The NLP-based chatbot streamlines the information seeking process for Ateneo students by uniting various datasets about the university and its student life into one entity that can be accessed with a quick Messenger chat and question. The chatbot also enables students, especially those in the online setting, who are experiencing either momentary or constant internet issues to get their basic concerns addressed.
 
 
-### <u>**MANU**</u>
+### <u>**TRENDS AND PATTERNS IN SONG STRUCTURES OF POPULAR MUSIC**</u>  
+![*Image from Making Music Magazine*](https://makingmusicmag.com/wp-content/uploads/2018/12/rawpixel-727598-unsplash.jpg)
+
+> <u>**Description:**</u> One field of data science that I would like to look into is the analysis of trends in music composition and consumption. I would study the different decisions made by composers, songwriters and producers in the formation of their music, which of these prevail as the most common compositional choices, as well as which of these choices result in the most commercial success and favor from the audience. An important concept in composition is that of song structure, and this will be a focus in the study that I would pursue.
+
+> <u>**Availability of the Data:**</u> Web scraping will be an essential tool for this study as a large amount of data can be collected through online music pages. One of the most popular music websites is last.fm, which holds a vast database of music artists and respective songs, genres, tempos, key centers, etc. This is a database that we can scrape using certain codes like this “lastfm-scraper” repository in GitHub (https://github.com/dbeley/lastfm-scraper).
+
+> <u>**Statistical Method/s Needed:**</u> One tool to be used in analysis for this topic will be the tuneR package offered for the programming language R. “The freely available R (R Development Core Team 2007) package tuneR (Ligges 2006) is a framework for statistical analysis and transcription of music time series which provides many tools (e.g. for reading Wave files, estimating fundamental frequencies, etc.)” (Weihs et al., 2007, p. 24)
+>
+> As seen in pages 7, 13, and 25 of Brad Osborn’s study on the terminally climactic form in rock music, waveform analysis can reveal a lot about the structural progression of songs (Osborn, 2013). This can be performed through different DAWs (Digital Audio Workstation) such as Cakewalk, Reaper, Logic, and Ableton, as well as simpler and cheaper (even free) alternatives like Audacity. Other tests like vocal pitch tracking (p. 6) can also be done through different functions in these DAWs.
+
+> <u>**Beneficiaries:**</u> One group of beneficiaries would be general music listeners, as they will be better able to understand the decisions that go into the creation of the music they listen to. Others especially benefitting from this study would be the music composers and producers, as they can analyze the commonalities between different works, and compare theirs to the many others around. They can then adjust their work as they see fit, whether they want to capitalize on trends and attempt to make hit songs, or go the opposite direction and find unique sounds and tools to incorporate into their musical structure.
 
 ### <u>**COMPUTER VISION**</u>
 ![*Image from Ilija Mihajlovic*](https://miro.medium.com/max/1400/1*8gmgaAkFdI-9OHY5cA93xQ.png)
@@ -167,8 +180,7 @@ img {
 
 > <u>**Availability of the Data:**</u> The data collected are in astronomically <i>(pun intended)</i> large sets and are available and derived from astronomy research oriented databases like the Sloan Digital Sky Survey and Hubble Legacy Archive.
 
-
-> <u>**Statistical Method/s Needed:**</u> This field requires a heavy reliance on machine learning and algorithms, given the large data sets needed to be processed. Research and development often involve astronomical data awareness, deep understanding of selection biases, and sophisticated multipoint statistics (STSI, 2018)..
+> <u>**Statistical Method/s Needed:**</u> This field requires a heavy reliance on machine learning and algorithms, given the large data sets needed to be processed. Research and development often involve astronomical data awareness, deep understanding of selection biases, and sophisticated multipoint statistics (STSI, 2018).
 
 > <u>**Beneficiaries:**</u> The community that would primarily benefit from these studies are astrophysicists and researchers in the field. The accumulation of the data can help scientists understand otherworldly phenomena better as well as build on our current knowledge of physics and other sciences.
 
@@ -192,7 +204,19 @@ img {
 
 \
 
+| Global Reach. (2021, August 11). Targeted Advertising 101. Global Reach. Retrieved June 24, 2022, from https://www.globalreach.com/global-reach-media/blog/2021/08/11/targeted-advertising-101 
+
+\
+
 | Gruzs, J. (2019). Data Science from Scratch: First Principles with Python (2nd ed.). O’Reilly Media, Inc.
+
+\
+
+| Hernandez, B. (2020, January 31). Tips on Writing a Music Analysis Essay. Making Music Magazine. Retrieved June 24, 2022, from https://makingmusicmag.com/music-analysis-essay/ 
+
+\
+
+| Iyer, G., Soberman, D., &amp; Villas-Boas, M. (2004, February). The Targeting of Advertising. Faculty &amp; Research - INSEAD. Retrieved June 24, 2022, from https://flora.insead.edu/fichiersti_wp/inseadwp2004/2004-20.pdf 
 
 \
 
@@ -208,11 +232,19 @@ img {
 
 \
 
+| Osborn, B. (2013). Subverting the Verse–Chorus Paradigm. Music Theory Spectrum, 35(1), 23–47. https://doi.org/10.1525/mts.2013.35.1.23 
+
+\
+
 | Patel, N. (2022). Fake News Detection [electronic resource: python source code and data sets]. Retrieved from https://github.com/nishitpatel01/Fake_News_Detection. 
 
 \
 
 | Peek, Joshua.  (2018). Data Science in Astronomy, Three Ways. Space Telescope Science Institute. https://www.stsci.edu/contents/newsletters/2018-volume-35-issue-01/data-science-in-astronomy-three-ways#:~:text=Data%2DDriven%20Astronomy%20(DDA),of%20other%20processes%20or%20investigations.
+
+\
+
+| Provost, F., & Fawcett, T. (2013). Data Science and its relationship to big data and data-driven decision making. Big Data, 1(1), 51–59. https://doi.org/10.1089/big.2013.1508 
 
 \
 
@@ -229,3 +261,7 @@ img {
 \
 
 | Upasana. (2022, April 5). Top 10 Data Science Applications. Edureka. Retrieved June 23, 2022, from https://www.edureka.co/blog/data-science-applications/
+
+\
+
+| Weihs, C., Ligges, U., Mörchen, F., &amp; Müllensiefen, D. (2007). Classification in Music Research. Advances in Data Analysis and Classification, 1(3), 255–291. https://doi.org/10.1007/s11634-007-0016-x 
