@@ -141,7 +141,7 @@ img {
 
 > <u>**Description:**</u> One field of data science that I would like to look into is the analysis of trends in music composition and consumption. I would study the different decisions made by composers, songwriters and producers in the formation of their music, which of these prevail as the most common compositional choices, as well as which of these choices result in the most commercial success and favor from the audience. An important concept in composition is that of song structure, and this will be a focus in the study that I would pursue.
 
-> <u>**Availability of the Data:**</u> Web scraping will be an essential tool for this study as a large amount of data can be collected through online music pages. One of the most popular music websites is last.fm, which holds a vast database of music artists and respective songs, genres, tempos, key centers, etc. This is a database that we can scrape using certain codes like this “lastfm-scraper” repository in GitHub (https://github.com/dbeley/lastfm-scraper).
+> <u>**Availability of the Data:**</u> Web scraping will be an essential tool for this study as a large amount of data can be collected through online music pages. One of the most popular music websites is last.fm, which holds a vast database of music artists and respective songs, genres, tempos, key centers, etc. This is a database that we can scrape using certain codes like this “lastfm-scraper” repository in [GitHub](https://github.com/dbeley/lastfm-scraper).
 
 > <u>**Statistical Method/s Needed:**</u> One tool to be used in analysis for this topic will be the tuneR package offered for the programming language R. “The freely available R (R Development Core Team 2007) package tuneR (Ligges 2006) is a framework for statistical analysis and transcription of music time series which provides many tools (e.g. for reading Wave files, estimating fundamental frequencies, etc.)” (Weihs et al., 2007, p. 24)
 >
@@ -178,7 +178,7 @@ img {
 
 > <u>**Description:**</u> According to the Space Telescope Science Institute (2018), DDA is the production of astronomical knowledge built on pre-existing databases, somewhat similar to industrial data science wherein the data sets are a byproduct of other investigations rather than taken with the experiment in mind. 
 
-> <u>**Availability of the Data:**</u> The data collected are in astronomically <i>(pun intended)</i> large sets and are available and derived from astronomy research oriented databases like the Sloan Digital Sky Survey and Hubble Legacy Archive.
+> <u>**Availability of the Data:**</u> The data collected are in astronomically <i>(pun intended)</i> large sets and are available and derived from astronomy research oriented databases like the [Sloan Digital Sky Survey](https://www.sdss.org/) and [Hubble Legacy Archive](http://hla.stsci.edu/).
 
 > <u>**Statistical Method/s Needed:**</u> This field requires a heavy reliance on machine learning and algorithms, given the large data sets needed to be processed. Research and development often involve astronomical data awareness, deep understanding of selection biases, and sophisticated multipoint statistics (STSI, 2018).
 
@@ -188,7 +188,7 @@ img {
 *** 
 
 ### <u>REFERENCES</u>
-| Data Flair. (n.d.). Data Science for Weather Prediction - The Prerequisite to all Natural Disasters. Data Flair. https://data-flair.training/blogs/data-science-for-weather-prediction/.
+| Data Flair. (n.d.). Data Science for Weather Prediction - The Prerequisite to all Natural Disasters. Data Flair. Retrieved June 23, 2022, from https://data-flair.training/blogs/data-science-for-weather-prediction/.
 
 \
 
@@ -228,7 +228,7 @@ img {
 
 \
 
-| Ogles, J. (2021). Survey says majority of Florida voters opposed to election law changes [Image]. Florida Politics. https://floridapolitics.com/archives/414872-survey-says-majority-of-florida-voters-opposed-to-election-law-changes/
+| Ogles, J. (2021). Survey says majority of Florida voters opposed to election law changes [Image]. Florida Politics.Retrieved June 23, 2022, from https://floridapolitics.com/archives/414872-survey-says-majority-of-florida-voters-opposed-to-election-law-changes/
 
 \
 
@@ -240,7 +240,7 @@ img {
 
 \
 
-| Peek, Joshua.  (2018). Data Science in Astronomy, Three Ways. Space Telescope Science Institute. https://www.stsci.edu/contents/newsletters/2018-volume-35-issue-01/data-science-in-astronomy-three-ways#:~:text=Data%2DDriven%20Astronomy%20(DDA),of%20other%20processes%20or%20investigations.
+| Peek, Joshua.  (2018). Data Science in Astronomy, Three Ways. Space Telescope Science Institute.Retrieved June 23, 2022, from https://www.stsci.edu/contents/newsletters/2018-volume-35-issue-01/data-science-in-astronomy-three-ways#:~:text=Data%2DDriven%20Astronomy%20(DDA),of%20other%20processes%20or%20investigations.
 
 \
 
@@ -252,7 +252,7 @@ img {
 
 \
 
-| TMT International Observatory. (2022). https://www.tmt.org/page/observatory.
+| TMT International Observatory. (2022). Retrieved June 23, 2022, from https://www.tmt.org/page/observatory.
 
 \
 
